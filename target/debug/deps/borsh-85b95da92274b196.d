@@ -1,0 +1,11 @@
+D:\rust\Generics\macros\target\debug\deps\borsh-85b95da92274b196.d: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\de\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\de\hint.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\ser\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\ser\helpers.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\error.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\../docs/rustdoc_include/borsh_crate_top_level.md
+
+D:\rust\Generics\macros\target\debug\deps\libborsh-85b95da92274b196.rmeta: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\de\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\de\hint.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\ser\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\ser\helpers.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\error.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\../docs/rustdoc_include/borsh_crate_top_level.md
+
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\lib.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\de\mod.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\de\hint.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\ser\mod.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\ser\helpers.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\error.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.6.0\src\../docs/rustdoc_include/borsh_crate_top_level.md:
